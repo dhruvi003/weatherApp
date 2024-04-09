@@ -43,7 +43,7 @@ Install this project with npm
 
 Access the App
 ```bash
-  http://localhost:3000
+  http://localhost:300
 ```
 ## Contributing
 
